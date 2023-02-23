@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bear\\.nuget\\packages\\": {}
+    "C:\\Users\\ericb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
-      "packagesPath": "C:\\Users\\Bear\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Models\\obj\\",
+      "projectPath": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "packagesPath": "C:\\Users\\ericb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bear\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ericb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

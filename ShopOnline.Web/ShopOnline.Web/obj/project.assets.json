@@ -1762,19 +1762,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bear\\.nuget\\packages\\": {}
+    "C:\\Users\\ericb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
       "projectName": "ShopOnline.Web",
-      "projectPath": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
-      "packagesPath": "C:\\Users\\Bear\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Web\\obj\\",
+      "projectPath": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "packagesPath": "C:\\Users\\ericb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bear\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ericb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1821,18 +1821,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.12, 6.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

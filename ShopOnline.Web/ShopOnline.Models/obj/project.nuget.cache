@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sARywTZztGnrKN2QEaZBAyMEftNurdFgLAx/h6mFOkS7jYrvBpn0aYRwsn+5LA7pTNtfQb5z0C9kC14/co+bNw==",
+  "dgSpecHash": "7blzs6sUSj+BK1vwz+1dzxg4KTKDzNfgxqoOfQNp//94CbgUSnCsCgvhTRrnDhnbLI4LaY33e/18gyFWpeTX5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bear\\Dev\\shop-online-dotnet- fullstack-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "projectFilePath": "C:\\Users\\ericb\\Dev\\blazor-dotnet-fs-tutorial\\ShopOnline.Web\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
